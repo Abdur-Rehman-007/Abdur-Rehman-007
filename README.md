@@ -1,45 +1,102 @@
-Done — I created a ready-to-use README template you can use as your GitHub profile README. Below is a polished, customizable README.md with placeholders you can replace with your actual info. Tell me any text, links, or images you want me to fill in, or say “create it in repo” and give the repo name (if you want me to commit it to GitHub).
+<div align="center">
 
-```markdown name=README.md
-# Hi there 👋 I'm Abdur Rehman
+# Abdur Rehman
 
-![Header](https://img.shields.io/badge/Hello-World-blue)
+### Computer Engineer · .NET Core & Flutter Developer · AI Enthusiast
 
-## About Me
-I am a [your role — e.g., Software Engineer / Student / Data Scientist] passionate about building [web apps / APIs / ML models / open-source tools]. I enjoy solving problems, learning new technologies, and collaborating on impactful projects.
+BS Computer Engineering, BUITEMS · CGPA **3.72 / 4.0** · Quetta, Pakistan 🇵🇰
 
-- 🔭 I’m currently working on: **Project Name**  
-- 🌱 I’m currently learning: **Tech / Topic**  
-- 👯 I’m looking to collaborate on: **Open-source projects / ideas**  
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)  
-- ⚡ Fun fact: [a short personal line]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-4bb251360/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdul.man7080@gmail.com)
 
-## Skills
-- Languages: JavaScript, TypeScript, Python, Java, C++ (update as needed)
-- Frameworks & Tools: React, Node.js, Express, Django, Flask, Docker, Git
-- Databases: PostgreSQL, MongoDB, MySQL
-- Cloud / CI: GitHub Actions, AWS / GCP / Azure (update)
-
-## Projects
-Here are some highlights — add descriptions and links.
-
-- [project-1-name](https://github.com/your-username/project-1) — Short one-line description.
-- [project-2-name](https://github.com/your-username/project-2) — Short one-line description.
-- [project-3-name](https://github.com/your-username/project-3) — Short one-line description.
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rehman-007&show_icons=true&theme=default)
-
-## Connect with me
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/your-twitter
-- Personal website / portfolio: https://your-site.example
+</div>
 
 ---
 
-If you'd like, I can:
-1. Personalize this README with your real details (name, bio, links, projects).
-2. Create a repo named exactly your GitHub username (Abdur-Rehman-007) and add this README.md so it appears on your profile — tell me to proceed and confirm the repo name.
-3. Make other styling choices (badges, animated GIF, more stats cards).
+### 🛠️ Tech Stack
 
-What would you like me to do next? If you want me to personalize it now, paste your bio, top projects and links, skills list, and contact links. If you want me to create the repo and commit the file, confirm the repo name (default for a profile README is your GitHub username: Abdur-Rehman-007) and I’ll create it.
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🏥 **[Medi-AI](https://github.com/Abdur-Rehman-007/Medi-AI)** (FYP) | Android healthcare guidance and appointment app for BUITEMS, with offline medicine reminders and an AI Symptoms Analyzer (Llama 3.1). Deployed on Railway. | Flutter · C# · MySQL |
+| ⚙️ [Medi-AI Backend](https://github.com/Abdur-Rehman-007/Medi-AI_backend) | REST API and database for Medi-AI | C# · ASP.NET Core |
+| 📱 [Medi-AI Frontend](https://github.com/Abdur-Rehman-007/Medi-AI_frontend-) | Mobile app code | Dart · Flutter |
+| 🔬 [IDS-1](https://github.com/Abdur-Rehman-007/IDS-1) | Research work | Jupyter Notebook |
+
+---
+
+### 💼 Experience
+
+| When | Role | Where |
+|---|---|---|
+| Jun 2026 – now | **.NET Core Intern**: MVC apps and REST APIs | Elysian Systems |
+| 2025 – 2026 | **Final Year Project**: Medi-AI | BUITEMS |
+| Apr – Jun 2025 | **GIS Intern**: ArcGIS digitization, data QA, maps | Ultrasoft System |
+| 2025 – 2026 | **Work-Study Student**: Financial Aid Office | BUITEMS |
+| Jan – Feb 2025 | **Computer Teacher**: grades 4–10 | FCPS Jandola |
+
+### 🎓 Education
+
+| Year | Degree | Result |
+|---|---|---|
+| 2022 – 2026 | **BS Computer Engineering**, BUITEMS | **CGPA 3.72 / 4.0** |
+| 2019 – 2021 | HSSC Pre-Engineering, GDC No.1 D.I. Khan | 73% |
+| 2009 – 2019 | SSC Science, Comprehensive Public High School | 71% |
+
+---
+
+### 🏅 Certifications
+
+**Google Cloud / Google AI:** Google AI Essentials · Generative AI · Large Language Models · Image Generation · Attention Mechanism · Prompt Design in Agent Platform · Responsible AI
+
+**Others:** Web Development (NAVTTC) · Level 2 F.S.M (AOSH) · Level 2 F.A.W (AOSH)
+
+### 👥 Leadership & Events
+
+- **IEEE Student Branch BUITEMS:** Program Committee Lead
+- **Society of Computer Engineering:** Core Representative (2023 – 2026)
+- **Class Representative** (2023 – 2025)
+- NASA Space Apps Challenge 2024 · SUSI Exchange Program 2025 · Networking Workshop · Markhor Math Competition · PLF 2024
+
+### 💡 Interests
+
+`Artificial Intelligence` `Robotics` `Event Management` `Travelling` `Sports`
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rehman-007&show_icons=true&theme=default&hide_border=true)
+
+</div>
