@@ -84,7 +84,7 @@ BS Computer Engineering, BUITEMS · CGPA **3.72 / 4.0** · Quetta, Pakistan 🇵
 
 ### 👥 Leadership & Events
 
-- **IEEE Student Branch BUITEMS:** Program Committee Lead
+- **IEEE Student Branch BUITEMS:** Program Committee Lead (2024 – 2026)
 - **Society of Computer Engineering:** Core Representative (2023 – 2026)
 - **Class Representative** (2023 – 2025)
 - NASA Space Apps Challenge 2024 · SUSI Exchange Program 2025 · Networking Workshop · Markhor Math Competition · PLF 2024
